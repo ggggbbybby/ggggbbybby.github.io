@@ -1,3 +1,5 @@
+/*! background image from Subtle Patterns: https://www.toptal.com/designers/subtlepatterns/new-year/ */
+
 //@extend-elements
 %extend1 {
 	margin: 0;
@@ -16,7 +18,7 @@ body {
 	font-family: $font1;
 	@include font-rem($doc-font-size);
 	color: $color_tuatara;
-	background-color: $bodycolor;
+    background-image: url('/assets/img/happylittletrees.png');
 	background-position: center center;
 	background-attachment: fixed;
 	@media #{$small} {
