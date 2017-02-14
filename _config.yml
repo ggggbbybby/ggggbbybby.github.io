@@ -18,6 +18,7 @@ kramdown:
   entity_output:    as_char
   toc_levels:       1..6
   enable_coderay:   false
+mathjax:            true
 sass:
   sass_dir:         _sass
   style:            compressed
@@ -62,17 +63,9 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-assets
 
 jekyll-mentions:
     base_url: https://github.com
-
-assets:
-  compress:
-    css: false
-    js: true
-  sources:
-    - _assets/javascripts
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
