@@ -17,7 +17,7 @@
     <!-- Open Graph -->
     <meta property="og:locale" content="{{ site.locale }}">
     <meta property="og:type" content="article">
-    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta property="og:title" content="{% if page.title %}{{site.title}} - {{ page.title }}{% else %}{{ site.title }}{% endif %}">
     {% if page.excerpt %}<meta property="og:description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
     <meta property="og:site_name" content="{{ site.title }}">
@@ -36,7 +36,7 @@
     <!-- CSS -->
     <link rel="stylesheet" href="/assets/css/main.css">
     <!-- JS -->
-    <script src="/assets/js/modernizr-3.3.1.custom.min.js"></script>
+    {% js app %}
     <!-- Favicons -->
     <link rel="apple-touch-icon" href="/assets/img/favicons/apple-icon-precomposed.png">
     <link rel="apple-touch-icon" sizes="72x72" href="/assets/img/favicons/apple-icon-72x72.png">

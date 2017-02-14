@@ -11,7 +11,7 @@ Download as PDF
 </a>
 
 ## Contact
-[rebecca.em.green@gmail.com](mailto:rebecca.em.green@gmail.com) | [github.com/ggggbbybby](https://github.com/ggggbbybby) | [408-835-4506](tel:14088354506)
+[rebecca.em.green@gmail.com](mailto:rebecca.em.green@gmail.com) | [github.com/ggggbbybby](https://github.com/ggggbbybby) | [408-835-4506](tel:14088354506) | [linkedin.com/in/rebeccagreeen](http://linkedin.com/in/rebeccagreeen)
 
 ## About Me
 Full-Stack software engineer with 5+ years of experience with agile Ruby and Javascript
