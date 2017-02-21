@@ -12,7 +12,7 @@ layout: compress
 <body>
     {% include nav.html %}
     <!-- Header -->
-    <header class="header" role="banner">
+    <div class="main" role="main">
         <div class="wrapper animated fadeIn">
             <div class="content">
                 <div class="post-title {% if page.feature %} feature {% endif %}">
@@ -24,7 +24,7 @@ layout: compress
                 {{ content }}
             </div>
         </div>
-    </header>
+    </div>
     {% include scripts.html %}
 </body>
 </html>
