@@ -12,6 +12,7 @@ GEM
     faraday (0.11.0)
       multipart-post (>= 1.2, < 3)
     ffi (1.9.17)
+    ffi (1.9.17-x64-mingw32)
     forwardable-extended (2.6.0)
     html-pipeline (2.5.0)
       activesupport (>= 2)
@@ -52,6 +53,8 @@ GEM
     multipart-post (2.0.0)
     nokogiri (1.7.0.1)
       mini_portile2 (~> 2.1.0)
+    nokogiri (1.7.0.1-x64-mingw32)
+      mini_portile2 (~> 2.1.0)
     octokit (4.6.2)
       sawyer (~> 0.8.0, >= 0.5.3)
     pathutil (0.14.0)
@@ -71,6 +74,7 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
   jekyll (~> 3.2.1)
@@ -80,4 +84,4 @@ DEPENDENCIES
   jekyll-sitemap
 
 BUNDLED WITH
-   1.11.2
+   1.14.6
