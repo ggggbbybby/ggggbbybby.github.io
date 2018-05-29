@@ -20,7 +20,7 @@ systems. Easily develops a familiarity with new languages and systems, and is al
 take on a new challenge. Prefers small teams and wearing a lot of hats.
 
 ## Programming Languages and Libraries
-Ruby/Rails, JavaScript (AngularJS & jQuery), Haskell, Python, C/C++ (OpenCV)
+Ruby/Rails, JavaScript (React, AngularJS), Haskell, Python, C/C++ (OpenCV)
 
 ## Education
 B.S. Computer Science, Concentration in Philosophy Harvey Mudd College, 2011
@@ -28,7 +28,7 @@ B.S. Computer Science, Concentration in Philosophy Harvey Mudd College, 2011
 ## Work Experience
 
 ### Senior Software Engineer - Data Tools, Slack, San Francisco, CA (5/2018 - )
- * Work on internal analytics tools to provide data and context for analysts, engineers, and others at Slack
+ * Build and improve internal analytics dashboards in React
 
 ### Senior Software Engineer, LendingHome, San Francisco, CA (9/2015 - 4/2018)
 * Expanded and optimized workflow prioritization algorithms & work items for loan officers.
