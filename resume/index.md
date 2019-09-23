@@ -14,7 +14,7 @@ Download as PDF
 [rebecca.em.green@gmail.com](mailto:rebecca.em.green@gmail.com) | [github.com/ggggbbybby](https://github.com/ggggbbybby) | [408-835-4506](tel:14088354506) 
 
 ## About Me
-Full-Stack software engineer with 6+ years of experience with agile Ruby and Javascript
+Full-Stack software engineer with 8+ years of experience with agile Ruby and Javascript
 development. Enjoys collaborating with non-technical users to build friendly and efficient
 systems. Easily develops a familiarity with new languages and systems, and is always excited to
 take on a new challenge. Prefers small teams and wearing a lot of hats.
