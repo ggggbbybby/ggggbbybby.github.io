@@ -17,7 +17,7 @@ Download as PDF
 Full-Stack software engineer with 8+ years of experience with agile Ruby and Javascript
 development. Enjoys collaborating with non-technical users to build friendly and efficient
 systems. Easily develops a familiarity with new languages and systems, and is always excited to
-take on a new challenge. Prefers small teams and wearing a lot of hats.
+take on a new challenge. Prefers small teams and wearing a lot of hats. Pronouns are they, them, theirs.
 
 ## Programming Languages and Libraries
 Ruby/Rails, JavaScript (React, AngularJS), Haskell, Python, C/C++ (OpenCV)
