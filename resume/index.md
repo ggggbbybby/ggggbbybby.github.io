@@ -28,7 +28,9 @@ B.S. Computer Science, Concentration in Philosophy Harvey Mudd College, 2011
 ## Work Experience
 
 ### Senior Software Engineer - Data Tools, Slack, San Francisco, CA (5/2018 - )
- * Build and improve internal analytics dashboards in React
+ * Built and optimized internal analytics dashboards in React
+ * Worked with advanced data users (data scientists, analysts, engineers) at Slack to identify and close gaps in their workflow
+ * Implemented real-time pipelines using Kafka for viewing A/B test data within seconds
 
 ### Senior Software Engineer, LendingHome, San Francisco, CA (9/2015 - 4/2018)
 * Expanded and optimized workflow prioritization algorithms & work items for loan officers.
