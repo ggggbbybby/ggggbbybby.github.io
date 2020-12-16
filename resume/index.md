@@ -6,18 +6,15 @@ date: 2018-02-10
 comments: false
 ---
 
-<a class="btn zoombtn" href="/assets/files/Resume-Rebecca-Green.pdf">
+<a class="btn zoombtn" href="/assets/files/Resume-Rebecca-Ravenoak.pdf">
 Download as PDF
 </a>
 
 ## Contact
-[rebecca.em.green@gmail.com](mailto:rebecca.em.green@gmail.com) | [github.com/ggggbbybby](https://github.com/ggggbbybby) | [408-835-4506](tel:14088354506) 
+[rebeccaravenoak@gmail.com](mailto:rebeccaravenoak@gmail.com) | [github.com/ggggbbybby](https://github.com/ggggbbybby) | [408-835-4506](tel:14088354506) 
 
 ## About Me
-Full-Stack software engineer with 8+ years of experience with agile Ruby and Javascript
-development. Enjoys collaborating with non-technical users to build friendly and efficient
-systems. Easily develops a familiarity with new languages and systems, and is always excited to
-take on a new challenge. Prefers small teams and wearing a lot of hats. Pronouns are they, them, theirs.
+I am a full-stack software engineer with 9 years of experience working with Ruby and Javascript, looking to change to a more communication or planning-oriented role. I enjoy collaborating with non-technical users to build friendly and efficient systems. I quickly develop familiarity with new languages and systems and I love challenges. I prefer small teams and the flexibility that comes with them. My pronouns are they/them/theirs.
 
 ## Programming Languages and Libraries
 Ruby/Rails, JavaScript (React, AngularJS), Haskell, Python, C/C++ (OpenCV)
@@ -26,8 +23,14 @@ Ruby/Rails, JavaScript (React, AngularJS), Haskell, Python, C/C++ (OpenCV)
 B.S. Computer Science, Concentration in Philosophy Harvey Mudd College, 2011
 
 ## Work Experience
+Key Themes: internal tools, test-driven development, delightful user experiences
 
-### Senior Software Engineer - Data Tools, Slack, San Francisco, CA (5/2018 - )
+### Senior Software Engineer, Datagrail, San Francisco, CA (1/2020 - 6/2020)
+ * Refactored existing data integrations to improve interoperability
+ * Created testing framework and extensive tests for said data integrations
+ * Designed and built prototypes for end-user data summaries, with data extracted and compiled from multiple customer systems
+
+### Senior Software Engineer - Data Tools, Slack, San Francisco, CA (5/2018 - 10/2019)
  * Built and optimized internal analytics dashboards in React
  * Worked with advanced data users (data scientists, analysts, engineers) at Slack to identify and close gaps in their workflow
  * Implemented real-time pipelines using Kafka for viewing A/B test data within seconds
