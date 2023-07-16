@@ -14,16 +14,20 @@ Download as PDF
 [rebeccaravenoak@gmail.com](mailto:rebeccaravenoak@gmail.com) | [github.com/ggggbbybby](https://github.com/ggggbbybby) | [408-835-4506](tel:14088354506) 
 
 ## About Me
-I am a full-stack software engineer with 9 years of experience working with Ruby and Javascript, looking to change to a more communication or planning-oriented role. I enjoy collaborating with non-technical users to build friendly and efficient systems. I quickly develop familiarity with new languages and systems and I love challenges. I prefer small teams and the flexibility that comes with them. My pronouns are they/them/theirs.
+I am a full-stack software engineer with 10+ years of experience working with Ruby and Javascript. I enjoy collaborating with non-technical users to build friendly and efficient systems and I give excellent, clear answers to tricky technical questions.  I care about accessibility, performance, and collaboration. I prefer small teams and the flexibility that comes with them. I work from home, not from an office.
 
 ## Programming Languages and Libraries
-Ruby/Rails, JavaScript (React, AngularJS), Haskell, Python, C/C++ (OpenCV)
+Ruby/Rails, React.js, PostgreSQL
 
 ## Education
 B.S. Computer Science, Concentration in Philosophy Harvey Mudd College, 2011
 
 ## Work Experience
 Key Themes: internal tools, test-driven development, delightful user experiences
+
+### Senior Software Engineer, Trim by OneMain, Remote  (Sept 2021 - present)
+* I build, maintain, debug, and demystify our negotiation data pipelines, enabling operations to manage their resources effectively and ensuring the best user experience possible.
+* I mentor other engineers, provide technical feedback on their proposals and review their code for robustness, performance, accessibility, and maintainability.
 
 ### Senior Software Engineer, Datagrail, San Francisco, CA (1/2020 - 6/2020)
  * Refactored existing data integrations to improve interoperability
