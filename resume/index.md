@@ -23,15 +23,15 @@ Ruby/Rails, React.js, PostgreSQL
 B.S. Computer Science, Concentration in Philosophy Harvey Mudd College, 2011
 
 ## Work Experience
-Key Themes: internal tools, test-driven development, delightful user experiences
+Key Themes: pipeline optimization, internal tools, developer experience, test-driven development
 
-### Senior Software Engineer, Trim by OneMain, Remote  (Sept 2021 - present)
-* I build, maintain, debug, and demystify our negotiation data pipelines, enabling operations to manage their resources effectively and ensuring the best user experience possible.
-* I mentor other engineers, provide technical feedback on their proposals and review their code for robustness, performance, accessibility, and maintainability.
+### Senior Software Engineer, Trim by OneMain, Remote  (9/2021 - 2/2024)
+* Built, maintained, debugged, and demystified our negotiation data pipelines, leading to a massive increase in negotiation quality and conversion rates (from 30% to 95%)
+* Mentored other engineers, provided technical feedback on their proposals and reviewed their code for robustness, performance, accessibility, and maintainability
+* Led significant engineering initiatives around user security, infrastructure, and observability
 
 ### Senior Software Engineer, Datagrail, San Francisco, CA (1/2020 - 6/2020)
- * Refactored existing data integrations to improve interoperability
- * Created testing framework and extensive tests for said data integrations
+ * Refactored existing data integrations and built extensive tests to improve interoperability
  * Designed and built prototypes for end-user data summaries, with data extracted and compiled from multiple customer systems
 
 ### Senior Software Engineer - Data Tools, Slack, San Francisco, CA (5/2018 - 10/2019)
